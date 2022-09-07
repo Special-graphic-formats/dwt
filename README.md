@@ -1,3 +1,10 @@
+`ORG.SGF:`
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Special-graphic-formats/dwt)
+![GitHub Release Date](https://img.shields.io/github/release-date/Special-graphic-formats/dwt)
+![GitHub repo size](https://img.shields.io/github/repo-size/Special-graphic-formats/dwt)
+![GitHub all releases](https://img.shields.io/github/downloads/Special-graphic-formats/dwt/total)
+![GitHub](https://img.shields.io/github/license/Special-graphic-formats/dwt)  
+
 # DWT
 
 ### Playing with lossy and lossless image compression based on the discrete wavelet transformation
